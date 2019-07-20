@@ -15,7 +15,7 @@ const getters={
 	          label: '全部'
 	        },{
 	          value: '1',
-	          label: '精品课堂'
+	          label: '精品课堂',
 	        }, {
 	          value: '2',
 	          label: '社员课堂'
