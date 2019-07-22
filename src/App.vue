@@ -18,7 +18,9 @@ body{position:absolute;padding:0;margin:0;width:100%;height:100%;overflow-x:hidd
 	width:750px;
 	min-height:100%;
 	margin:0 auto;
+	border-radius: ;
 	opacity:1;
+	display: flex;
 	background: top left/100% auto no-repeat ;
 	overflow:hidden;
 	z-index:1;
